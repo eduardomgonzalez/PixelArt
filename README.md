@@ -1,4 +1,4 @@
 # PixelArt
 Proyecto realizado en mi capacitación como Desarrollador Web Full Stack en ACAMICA. 
 
-Manejo del DOM, jQuery, eventos.
+Utilizando HTML, CSS, JavaScript, manejo del DOM, jQuery, eventos.
